@@ -76,4 +76,4 @@
 ![Import it!](http://res.cloudinary.com/dqza9dw1h/image/upload/c_scale,w_800/v1459557802/guide/import/9.png)
 ![Done](http://res.cloudinary.com/dqza9dw1h/image/upload/c_scale,w_800/v1459557802/guide/import/10.png)
 
-My wallet address for donations and <3s: 0x1A416af553Faca53b4be48DCFB6E749C9737455D
+**Donations: 0x1A416af553Faca53b4be48DCFB6E749C9737455D**
